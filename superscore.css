@@ -32,7 +32,7 @@ button {
   display:;
   width:;
   border: none;
-  background-color: #04AA6D;
+  background-color: #green;
   padding: 14px 28px;
   font-size: 3vw;
   cursor: pointer;
@@ -43,7 +43,7 @@ button {
   display:;
   width:;
   border: none;
-  background-color: #04AA6D;
+  background-color: #red;
   padding: 14px 28px;
   font-size: 3vw;
   cursor: pointer;
