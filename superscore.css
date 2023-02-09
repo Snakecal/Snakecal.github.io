@@ -11,17 +11,17 @@ div#superscore {
 }
 
 #title {
-    font-size: 12vw;
+    font-size: 10vw;
     font-weight: bold;
 
 }
 
 #clock {
-    font-size: 13vw;
+    font-size: 11vw;
 }
 
 .score {
-    font-size: 14vw;
+    font-size: 11vw;
 }
 
 #reset-buttons {
@@ -34,7 +34,7 @@ button {
   border: none;
   background-color: #04AA6D;
   padding: 14px 28px;
-  font-size: 5vw;
+  font-size: 3vw;
   cursor: pointer;
   text-align: center;
 }
