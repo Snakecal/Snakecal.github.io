@@ -39,13 +39,6 @@ button {
   text-align: center;
 }
 
-button {
-  display:;
-  width:;
-  border: none;
-  background-color: red;
-  padding: 14px 28px;
-  font-size: 3vw;
-  cursor: pointer;
-  text-align: center;
+button#stop {
+  background-color: red; 
 }
