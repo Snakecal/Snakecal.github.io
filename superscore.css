@@ -11,17 +11,17 @@ div#superscore {
 }
 
 #title {
-    font-size: 7vw;
+    font-size: 12vw;
     font-weight: bold;
 
 }
 
 #clock {
-    font-size: x-large;
+    font-size: 13vw;
 }
 
 .score {
-    font-size: x-large;
+    font-size: 16vw;
 }
 
 #reset-buttons {
