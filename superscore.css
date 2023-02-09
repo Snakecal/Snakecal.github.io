@@ -42,3 +42,19 @@ button {
 button#stop {
   background-color: red; 
 }
+
+button#reset-score {
+  background-color: blue; 
+}
+    
+button#reset-clock {
+  background-color: blue;   
+}
+
+button#score-team1 {
+  background-color: orange; 
+}
+
+button#score-team2 {
+    background-color: orange;
+}
